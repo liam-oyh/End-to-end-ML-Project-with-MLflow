@@ -129,7 +129,7 @@ export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 
 	sudo apt-get upgrade
 
-	sudo apt install awsli
+	sudo apt install awscli
 	
 	#required
 
@@ -168,3 +168,4 @@ MLflow
  - Logging & tagging your model
 
 
+# End-to-end-ML-Project-with-MLflow-w
